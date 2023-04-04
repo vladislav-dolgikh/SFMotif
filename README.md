@@ -68,7 +68,7 @@ Installation
 
 Installing a package from source is done in the R environment using the command:
 
-`install.packages(path/to/SFMotif_0.0.0.9000.tar.gz, repos = NULL, type="source")`
+`install.packages("path/to/SFMotif_0.0.0.9000.tar.gz", repos = NULL, type="source")`
 
 Usage
 ------
