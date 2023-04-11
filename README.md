@@ -17,7 +17,7 @@ Requirements
 
 Download and installation manual for **Homer** is on official website: http://homer.ucsd.edu/homer/. After installing tool you need to install ***TAIR10*** promoter set to the Homer environment. This can be done with the command:
 
-`perl configureHomer.pl -install tair 10`
+`perl configureHomer.pl -install tair10`
 
 The program must be in PATH. **Homer** contains executable files in the `bin` directory. For example, if homer is installed in the `/user/programs/homer/` directory, then you need to specify PATH with the command:
 
